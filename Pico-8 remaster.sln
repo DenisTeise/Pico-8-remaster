@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pico-8 remaster", "Pico-8 remaster.csproj", "{7DE932E1-2DD6-E704-57A7-F71B20334057}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DE932E1-2DD6-E704-57A7-F71B20334057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE932E1-2DD6-E704-57A7-F71B20334057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE932E1-2DD6-E704-57A7-F71B20334057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE932E1-2DD6-E704-57A7-F71B20334057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -64,8 +64,8 @@ MonoBehaviour:
     y: 0
     width: 551
     height: 957
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 16}
@@ -548,7 +548,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 08280000
+    m_SelectedIDs: 22280000
     m_LastClickedID: 0
     m_ExpandedIDs: 80fbffff00000000
     m_RenameOverlay:
